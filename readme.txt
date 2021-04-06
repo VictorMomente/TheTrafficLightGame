@@ -6,4 +6,4 @@ Baixar o python-pip:
 Baixar o Pygame:
     sudo pip3 install pygame
 
-Após isso, abrir o terminar no diretório e escrever o comando "make"
+Após isso, abrir o terminal no diretório e escrever o comando "make"
